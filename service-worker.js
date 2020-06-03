@@ -14,7 +14,11 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
+<<<<<<< HEAD
   "/cotizador-autos/precache-manifest.a550ded9e0634f751ad01fd36e47e480.js"
+=======
+  "/cotizador-autos/precache-manifest.9211e706b11d0b00b899871973519902.js"
+>>>>>>> a0f86d7afdb64b522e18b32a2c3773d1baea5753
 );
 
 self.addEventListener('message', (event) => {
